@@ -1,0 +1,1380 @@
+UBX-NAV-PVT, len: 92
+	itow: 8703000, year: 2015, month: 10, day: 18, hour: 2, min: 25, sec: 3, 
+	valid: date: n, time: n, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 0ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754037248mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 8703000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 0100000018cc8400df070a12021903f0ffffffff000000000000040000000000000000000000000098bdffffffffffff0010c2df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f2701000000
+UBX-NAV-PVT, len: 92
+	itow: 8713000, year: 2015, month: 10, day: 18, hour: 2, min: 25, sec: 13, 
+	valid: date: n, time: n, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 0ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754046720mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 8713000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 0200000028f38400df070a1202190df0ffffffff000000000000040000000000000000000000000098bdffffffffffff0035c2df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f2702000000
+UBX-NAV-PVT, len: 92
+	itow: 8723000, year: 2015, month: 10, day: 18, hour: 2, min: 25, sec: 23, 
+	valid: date: n, time: n, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 0ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754055936mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 8723000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 03000000381a8500df070a12021917f0ffffffff000000000000040000000000000000000000000098bdffffffffffff0059c2df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f2703000000
+UBX-NAV-PVT, len: 92
+	itow: 8733000, year: 2015, month: 10, day: 18, hour: 2, min: 25, sec: 33, 
+	valid: date: n, time: n, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 0ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754065152mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 8733000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 0400000048418500df070a12021921f0ffffffff000000000000040000000000000000000000000098bdffffffffffff007dc2df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f2704000000
+UBX-NAV-PVT, len: 92
+	itow: 8743000, year: 2015, month: 10, day: 18, hour: 2, min: 25, sec: 43, 
+	valid: date: n, time: n, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 0ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754074624mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 8743000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 0500000058688500df070a1202192bf0ffffffff000000000000040000000000000000000000000098bdffffffffffff00a2c2df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f2705000000
+UBX-NAV-PVT, len: 92
+	itow: 8753000, year: 2015, month: 10, day: 18, hour: 2, min: 25, sec: 53, 
+	valid: date: n, time: n, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 0ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754083840mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 8753000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 06000000688f8500df070a12021935f0ffffffff000000000000040000000000000000000000000098bdffffffffffff00c6c2df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f2706000000
+UBX-NAV-PVT, len: 92
+	itow: 8763000, year: 2015, month: 10, day: 18, hour: 2, min: 26, sec: 3, 
+	valid: date: n, time: n, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 0ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754093312mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 8763000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 0700000078b68500df070a12021a03f0ffffffff000000000000040000000000000000000000000098bdffffffffffff00ebc2df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f2707000000
+UBX-NAV-PVT, len: 92
+	itow: 8773000, year: 2015, month: 10, day: 18, hour: 2, min: 26, sec: 13, 
+	valid: date: n, time: n, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 0ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754102528mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 8773000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 0800000088dd8500df070a12021a0df0ffffffff000000000000040000000000000000000000000098bdffffffffffff000fc3df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f2708000000
+UBX-NAV-PVT, len: 92
+	itow: 8783000, year: 2015, month: 10, day: 18, hour: 2, min: 26, sec: 23, 
+	valid: date: n, time: n, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 0ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754112000mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 8783000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 0900000098048600df070a12021a17f0ffffffff000000000000040000000000000000000000000098bdffffffffffff0034c3df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f2709000000
+UBX-NAV-PVT, len: 92
+	itow: 8793000, year: 2015, month: 10, day: 18, hour: 2, min: 26, sec: 33, 
+	valid: date: n, time: n, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 0ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754121216mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 8793000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 0a000000a82b8600df070a12021a21f0ffffffff000000000000040000000000000000000000000098bdffffffffffff0058c3df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f270a000000
+UBX-NAV-PVT, len: 92
+	itow: 8803000, year: 2015, month: 10, day: 18, hour: 2, min: 26, sec: 43, 
+	valid: date: n, time: n, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 0ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754130688mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 8803000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 0b000000b8528600df070a12021a2bf0ffffffff000000000000040000000000000000000000000098bdffffffffffff007dc3df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f270b000000
+UBX-NAV-PVT, len: 92
+	itow: 8813000, year: 2015, month: 10, day: 18, hour: 2, min: 26, sec: 53, 
+	valid: date: n, time: n, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 0ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754139904mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 8813000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 0c000000c8798600df070a12021a35f0ffffffff000000000000040000000000000000000000000098bdffffffffffff00a1c3df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f270c000000
+UBX-NAV-PVT, len: 92
+	itow: 8823000, year: 2015, month: 10, day: 18, hour: 2, min: 27, sec: 3, 
+	valid: date: n, time: n, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 0ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754149376mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 8823000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 0d000000d8a08600df070a12021b03f0ffffffff000000000000040000000000000000000000000098bdffffffffffff00c6c3df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f270d000000
+UBX-NAV-PVT, len: 92
+	itow: 8833000, year: 2015, month: 10, day: 18, hour: 2, min: 27, sec: 13, 
+	valid: date: n, time: n, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 0ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754158848mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 8833000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 0e000000e8c78600df070a12021b0df0ffffffff000000000000040000000000000000000000000098bdffffffffffff00ebc3df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f270e000000
+UBX-NAV-PVT, len: 92
+	itow: 8843000, year: 2015, month: 10, day: 18, hour: 2, min: 27, sec: 23, 
+	valid: date: n, time: n, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 0ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754168320mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 8843000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 0f000000f8ee8600df070a12021b17f0ffffffff000000000000040000000000000000000000000098bdffffffffffff0010c4df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f270f000000
+UBX-NAV-PVT, len: 92
+	itow: 8853000, year: 2015, month: 10, day: 18, hour: 2, min: 27, sec: 33, 
+	valid: date: n, time: n, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 0ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754177792mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 8853000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 1000000008168700df070a12021b21f0ffffffff000000000000040000000000000000000000000098bdffffffffffff0035c4df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f2710000000
+UBX-NAV-PVT, len: 92
+	itow: 8863000, year: 2015, month: 10, day: 18, hour: 2, min: 27, sec: 43, 
+	valid: date: n, time: n, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 0ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754187264mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 8863000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 11000000183d8700df070a12021b2bf0ffffffff000000000000040000000000000000000000000098bdffffffffffff005ac4df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f2711000000
+UBX-NAV-PVT, len: 92
+	itow: 560719000, year: 2015, month: 10, day: 24, hour: 11, min: 45, sec: 2, 
+	valid: date: n, time: y, fully resolved: n, mag: n, tAcc: 4294967295ns, nano: 208ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 0 deg, lat: 0 deg, height: 0mm, hMSL: -17000mm, hAcc: 4294967295mm, vAcc: 3754193152mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560719000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 1200000098e46b21df070a180b2d02f2ffffffffd00000000000040000000000000000000000000098bdffffffffffff0071c4df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f2712000000
+UBX-NAV-PVT, len: 92
+	itow: 560729000, year: 2022, month: 5, day: 21, hour: 11, min: 45, sec: 11, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 20001002ns, nano: 104ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 117.0735544 deg, lat: 24.8618833 deg, height: 3753986mm, hMSL: 3749316mm, hAcc: 4294967295mm, vAcc: 3754193152mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560729000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 13000000a80b6c21e60705150b2d0bf7ea3031016800000000000400b801c845519fd10e02483900c4353900ffffffff0071c4df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f2713000000
+UBX-NAV-PVT, len: 92
+	itow: 560739000, year: 2022, month: 5, day: 21, hour: 11, min: 45, sec: 21, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 20001002ns, nano: -36ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 116.6276156 deg, lat: 25.7599395 deg, height: 4011688mm, hMSL: 4009635mm, hAcc: 4294967295mm, vAcc: 3754193152mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 0 deg, sAcc: 20000mm/S, headAcc: 180 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560739000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 14000000b8326c21e60705150b2d15f7ea303101dcffffff000004003cf68345a3a75a0fa8363d00a32e3d00ffffffff0071c4df0000000000000000000000000000000000000000204e000080a8120100000f270f270f270f270f270f270f2714000000
+UBX-NAV-PVT, len: 92
+	itow: 560748000, year: 2022, month: 5, day: 21, hour: 11, min: 45, sec: 30, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 1177ns, nano: 218258ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 6, lon: 121.2232672 deg, lat: 31.1369107 deg, height: 24982mm, hMSL: 15665mm, hAcc: 30102mm, vAcc: 65503mm, 
+	velN: -51mm/S, velE: -26mm/S, velD: -135mm/S, gSpeed: 57mm/S, headMot: 0 deg, sAcc: 1276mm/S, headAcc: 77.84973 deg, pDop: 7.49
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560748000, gdop: 9.74, pdop: 7.49, tdop: 6.23, vdop: 6.9, hdop: 2.92, ndop: 1.8, edop: 2.29
+ble: 15000000e0556c21e60705150b2d1ef7990400009254030003010a06e0334148931d8f1296610000313d000096750000dfff0000cdffffffe6ffffff79ffffff3900000000000000fc0400000dca76000000ce03ed026f02b2022401b400e50015000000
+UBX-NAV-PVT, len: 92
+	itow: 560758000, year: 2022, month: 5, day: 21, hour: 11, min: 45, sec: 40, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 1117ns, nano: 219388ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 6, lon: 121.2233085 deg, lat: 31.1369173 deg, height: 18647mm, hMSL: 9330mm, hAcc: 20505mm, vAcc: 41042mm, 
+	velN: 191mm/S, velE: 233mm/S, velD: 49mm/S, gSpeed: 301mm/S, headMot: 0 deg, sAcc: 743mm/S, headAcc: 78.39938 deg, pDop: 7.47
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560758000, gdop: 9.72, pdop: 7.47, tdop: 6.21, vdop: 6.88, hdop: 2.9, ndop: 1.8, edop: 2.28
+ble: 16000000f07c6c21e60705150b2d28f75d040000fc58030003010a067d354148d51d8f12d7480000722400001950000052a00000bf000000e9000000310000002d01000000000000e7020000c2a077000000cc03eb026d02b0022201b400e40016000000
+UBX-NAV-PVT, len: 92
+	itow: 560768000, year: 2022, month: 5, day: 21, hour: 11, min: 45, sec: 50, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 1105ns, nano: 220507ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 6, lon: 121.2233291 deg, lat: 31.13692 deg, height: 15006mm, hMSL: 5688mm, hAcc: 19300mm, vAcc: 35766mm, 
+	velN: -168mm/S, velE: -40mm/S, velD: 140mm/S, gSpeed: 173mm/S, headMot: 0 deg, sAcc: 710mm/S, headAcc: 78.98647 deg, pDop: 7.45
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560768000, gdop: 9.69, pdop: 7.45, tdop: 6.19, vdop: 6.86, hdop: 2.89, ndop: 1.79, edop: 2.27
+ble: 1700000000a46c21e60705150b2d32f7510400005b5d030003010a064b364148f01d8f129e3a000038160000644b0000b68b000058ffffffd8ffffff8c000000ad00000000000000c6020000178678000000c903e9026b02ae022101b300e30017000000
+UBX-NAV-PVT, len: 92
+	itow: 560778000, year: 2022, month: 5, day: 21, hour: 11, min: 46, sec: 0, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 1048ns, nano: 221586ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 6, lon: 121.2232273 deg, lat: 31.1368772 deg, height: 18989mm, hMSL: 9672mm, hAcc: 8470mm, vAcc: 18406mm, 
+	velN: -713mm/S, velE: -1064mm/S, velD: 158mm/S, gSpeed: 1281mm/S, headMot: 242.76287 deg, sAcc: 543mm/S, headAcc: 14.48655 deg, pDop: 7.43
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560778000, gdop: 9.66, pdop: 7.43, tdop: 6.18, vdop: 6.85, hdop: 2.88, ndop: 1.79, edop: 2.26
+ble: 1800000010cb6c21e60705150b2e00f7180400009261030003010a0651324148441c8f122d4a0000c825000016210000e647000037fdffffd8fbffff9e000000010500003f6d72011f020000cf1a16000000c603e7026a02ad022001b300e20018000000
+UBX-NAV-PVT, len: 92
+	itow: 560788000, year: 2022, month: 5, day: 21, hour: 11, min: 46, sec: 10, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 39ns, nano: 222678ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 7, lon: 121.22313 deg, lat: 31.1368246 deg, height: 17106mm, hMSL: 7789mm, hAcc: 6613mm, vAcc: 14993mm, 
+	velN: -410mm/S, velE: -1254mm/S, velD: -66mm/S, gSpeed: 1319mm/S, headMot: 243.64875 deg, sAcc: 492mm/S, headAcc: 24.26287 deg, pDop: 6.93
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560788000, gdop: 9.04, pdop: 6.93, tdop: 5.8, vdop: 6.32, hdop: 2.83, ndop: 1.78, edop: 2.2
+ble: 1900000020f26c21e60705150b2e0a3727000000d665030003010a07842e4148361a8f12d24200006d1e0000d5190000913a000066feffff1afbffffbeffffff270500004bc77301ec010000af05250000008803b502440278021b01b200dc0019000000
+UBX-NAV-PVT, len: 92
+	itow: 560798000, year: 2022, month: 5, day: 21, hour: 11, min: 46, sec: 20, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 39ns, nano: 223767ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 7, lon: 121.222997 deg, lat: 31.1368626 deg, height: 16607mm, hMSL: 7291mm, hAcc: 6526mm, vAcc: 14961mm, 
+	velN: 562mm/S, velE: -1101mm/S, velD: 99mm/S, gSpeed: 1236mm/S, headMot: 295.38126 deg, sAcc: 479mm/S, headAcc: 18.77011 deg, pDop: 6.9
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560798000, gdop: 9, pdop: 6.9, tdop: 5.78, vdop: 6.3, hdop: 2.82, ndop: 1.78, edop: 2.19
+ble: 1a00000030196d21e60705150b2e143727000000176a030003010a0752294148b21b8f12df4000007b1c00007e190000713a000032020000b3fbffff63000000d40400004eb7c201df01000013a41c0000008403b202420276021a01b200db001a000000
+UBX-NAV-PVT, len: 92
+	itow: 560808000, year: 2022, month: 5, day: 21, hour: 11, min: 46, sec: 30, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 40ns, nano: 224842ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 7, lon: 121.2228568 deg, lat: 31.1368915 deg, height: 17025mm, hMSL: 7709mm, hAcc: 6906mm, vAcc: 15434mm, 
+	velN: 122mm/S, velE: -1316mm/S, velD: 466mm/S, gSpeed: 1321mm/S, headMot: 275.53095 deg, sAcc: 405mm/S, headAcc: 19.46761 deg, pDop: 6.87
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560808000, gdop: 8.96, pdop: 6.87, tdop: 5.75, vdop: 6.27, hdop: 2.81, ndop: 1.77, edop: 2.18
+ble: 1b00000040406d21e60705150b2e1e37280000004a6e030003010a07d8234148d31c8f12814200001d1e0000fa1a00004a3c00007a000000dcfaffffd201000029050000476da4019501000089b41d0000008003af023f0273021901b100da001b000000
+UBX-NAV-PVT, len: 92
+	itow: 560818000, year: 2022, month: 5, day: 21, hour: 11, min: 46, sec: 40, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 38ns, nano: 225896ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 7, lon: 121.2226913 deg, lat: 31.1368793 deg, height: 22863mm, hMSL: 13547mm, hAcc: 6486mm, vAcc: 14647mm, 
+	velN: 65mm/S, velE: -1275mm/S, velD: 70mm/S, gSpeed: 1276mm/S, headMot: 272.20394 deg, sAcc: 384mm/S, headAcc: 17.34748 deg, pDop: 6.84
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560818000, gdop: 8.92, pdop: 6.84, tdop: 5.72, vdop: 6.24, hdop: 2.8, ndop: 1.77, edop: 2.17
+ble: 1c00000050676d21e60705150b2e2837260000006872030003010a07611d4148591c8f124f590000eb34000056190000373900004100000005fbffff46000000fc040000aa599f01800100005c781a0000007c03ac023c0270021801b100d9001c000000
+UBX-NAV-PVT, len: 92
+	itow: 560828000, year: 2022, month: 5, day: 21, hour: 11, min: 46, sec: 50, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 38ns, nano: 226953ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 7, lon: 121.2225892 deg, lat: 31.1369035 deg, height: 25024mm, hMSL: 15709mm, hAcc: 6450mm, vAcc: 14418mm, 
+	velN: -19mm/S, velE: -639mm/S, velD: 201mm/S, gSpeed: 639mm/S, headMot: 277.34005 deg, sAcc: 311mm/S, headAcc: 31.01875 deg, pDop: 6.81
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560828000, gdop: 8.88, pdop: 6.81, tdop: 5.7, vdop: 6.21, hdop: 2.79, ndop: 1.76, edop: 2.16
+ble: 1d000000608e6d21e60705150b2e3237260000008976030003010a07641941484b1d8f12c06100005d3d00003219000052380000edffffff81fdffffc90000007f020000f52fa70137010000b3542f0000007803a9023a026d021701b000d8001d000000
+UBX-NAV-PVT, len: 92
+	itow: 560838000, year: 2022, month: 5, day: 21, hour: 11, min: 47, sec: 0, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 42ns, nano: 228009ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 7, lon: 121.2224884 deg, lat: 31.1369533 deg, height: 25278mm, hMSL: 15963mm, hAcc: 7324mm, vAcc: 15938mm, 
+	velN: 813mm/S, velE: -387mm/S, velD: 345mm/S, gSpeed: 900mm/S, headMot: 326.12407 deg, sAcc: 541mm/S, headAcc: 32.21353 deg, pDop: 6.78
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560838000, gdop: 8.84, pdop: 6.78, tdop: 5.67, vdop: 6.19, hdop: 2.77, ndop: 1.76, edop: 2.15
+ble: 1e00000070b56d21e60705150b2f00372a000000a97a030003010a07741541483d1f8f12be6200005b3e00009c1c0000423e00002d0300007dfeffff590100008403000037a0f1011d0200006927310000007403a60237026b021501b000d7001e000000
+UBX-NAV-PVT, len: 92
+	itow: 560848000, year: 2022, month: 5, day: 21, hour: 11, min: 47, sec: 10, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 40ns, nano: 229064ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 8, lon: 121.222475 deg, lat: 31.137049 deg, height: 25295mm, hMSL: 15980mm, hAcc: 7330mm, vAcc: 15675mm, 
+	velN: 1076mm/S, velE: 534mm/S, velD: 384mm/S, gSpeed: 1201mm/S, headMot: 21.84269 deg, sAcc: 734mm/S, headAcc: 27.53418 deg, pDop: 6.62
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560848000, gdop: 8.65, pdop: 6.62, tdop: 5.56, vdop: 6.12, hdop: 2.53, ndop: 1.64, edop: 1.92
+ble: 1f00000080dc6d21e60705150b2f0a3728000000c87e030003010a08ee144148fa228f12cf6200006c3e0000a21c00003b3d0000340400001602000080010000b10400004d542100de0200008a032a000000610396022c026402fd00a400c0001f000000
+UBX-NAV-PVT, len: 92
+	itow: 560858000, year: 2022, month: 5, day: 21, hour: 11, min: 47, sec: 20, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 46ns, nano: 230144ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 8, lon: 121.2225772 deg, lat: 31.1371266 deg, height: 16995mm, hMSL: 7679mm, hAcc: 8610mm, vAcc: 18058mm, 
+	velN: 777mm/S, velE: 1086mm/S, velD: 704mm/S, gSpeed: 1335mm/S, headMot: 54.75902 deg, sAcc: 745mm/S, headAcc: 22.89981 deg, pDop: 6.59
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560858000, gdop: 8.61, pdop: 6.59, tdop: 5.54, vdop: 6.09, hdop: 2.52, ndop: 1.64, edop: 1.92
+ble: 2000000090036e21e60705150b2f14372e0000000083030003010a08ec18414802268f1263420000ff1d0000a22100008a460000090300003e040000c0020000370500003e8e5300e90200003df1220000005d0393022a026102fc00a400c00020000000
+UBX-NAV-PVT, len: 92
+	itow: 560868000, year: 2022, month: 5, day: 21, hour: 11, min: 47, sec: 30, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 54ns, nano: 231210ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 8, lon: 121.2226583 deg, lat: 31.13717 deg, height: 12813mm, hMSL: 3498mm, hAcc: 10147mm, vAcc: 20933mm, 
+	velN: 79mm/S, velE: 442mm/S, velD: 572mm/S, gSpeed: 449mm/S, headMot: 59.82541 deg, sAcc: 1033mm/S, headAcc: 42.29639 deg, pDop: 6.57
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560868000, gdop: 8.57, pdop: 6.57, tdop: 5.51, vdop: 6.07, hdop: 2.51, ndop: 1.63, edop: 1.91
+ble: 21000000a02a6e21e60705150b2f1e37360000002a87030003010a08171c4148b4278f120d320000aa0d0000a3270000c55100004f000000ba0100003c020000c10100004d495b0009040000078a400000005903910227025f02fb00a300bf0021000000
+UBX-NAV-PVT, len: 92
+	itow: 560878000, year: 2022, month: 5, day: 21, hour: 11, min: 47, sec: 40, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 53ns, nano: 232257ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 8, lon: 121.2226682 deg, lat: 31.1372572 deg, height: 13089mm, hMSL: 3774mm, hAcc: 9939mm, vAcc: 20723mm, 
+	velN: 1169mm/S, velE: -268mm/S, velD: 611mm/S, gSpeed: 1200mm/S, headMot: 5.22427 deg, sAcc: 734mm/S, headAcc: 30.91111 deg, pDop: 6.54
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560878000, gdop: 8.54, pdop: 6.54, tdop: 5.49, vdop: 6.04, hdop: 2.5, ndop: 1.63, edop: 1.9
+ble: 22000000b0516e21e60705150b2f283735000000418b030003010a087a1c41481c2b8f1221330000be0e0000d3260000f350000091040000f4feffff63020000b0040000bbf80700de020000a72a2f00000056038e0225025c02fa00a300be0022000000
+UBX-NAV-PVT, len: 92
+	itow: 560888000, year: 2022, month: 5, day: 21, hour: 11, min: 47, sec: 50, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 52ns, nano: 233296ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 8, lon: 121.2226476 deg, lat: 31.1373646 deg, height: 14173mm, hMSL: 4858mm, hAcc: 9433mm, vAcc: 20607mm, 
+	velN: 890mm/S, velE: -192mm/S, velD: 300mm/S, gSpeed: 911mm/S, headMot: 348.39336 deg, sAcc: 734mm/S, headAcc: 21.45509 deg, pDop: 6.51
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560888000, gdop: 8.5, pdop: 6.51, tdop: 5.47, vdop: 6.02, hdop: 2.49, ndop: 1.62, edop: 1.89
+ble: 23000000c0786e21e60705150b2f323734000000508f030003010a08ac1b41484e2f8f125d370000fa120000d92400007f5000007a03000040ffffff2c0100008f030000289b1302de020000e5bc2000000052038b0223025a02f900a200bd0023000000
+UBX-NAV-PVT, len: 92
+	itow: 560898000, year: 2022, month: 5, day: 21, hour: 11, min: 48, sec: 0, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 40ns, nano: 234369ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2227106 deg, lat: 31.1374871 deg, height: 3377mm, hMSL: -5939mm, hAcc: 7085mm, vAcc: 15754mm, 
+	velN: 1073mm/S, velE: 81mm/S, velD: 680mm/S, gSpeed: 1076mm/S, headMot: 9.20786 deg, sAcc: 571mm/S, headAcc: 31.07544 deg, pDop: 4.82
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560898000, gdop: 6.24, pdop: 4.82, tdop: 3.96, vdop: 4.52, hdop: 1.68, ndop: 1.03, edop: 1.33
+ble: 24000000d09f6e21e60705150b300037280000008193030003010a09221e414817348f12310d0000cde8ffffad1b00008a3d00003104000051000000a802000034040000d20c0e003b020000d86a2f0000007002e2018c01c401a8006700850024000000
+UBX-NAV-PVT, len: 92
+	itow: 560908000, year: 2022, month: 5, day: 21, hour: 11, min: 48, sec: 10, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 35ns, nano: 235415ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2227282 deg, lat: 31.1376195 deg, height: 267mm, hMSL: -9049mm, hAcc: 6115mm, vAcc: 13858mm, 
+	velN: 1306mm/S, velE: -172mm/S, velD: 560mm/S, gSpeed: 1317mm/S, headMot: 354.2588 deg, sAcc: 576mm/S, headAcc: 26.39564 deg, pDop: 4.81
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560908000, gdop: 6.22, pdop: 4.81, tdop: 3.95, vdop: 4.51, hdop: 1.68, ndop: 1.02, edop: 1.33
+ble: 25000000e0c66e21e60705150b300a37230000009797030003010a09d21e414843398f120b010000a7dcffffe3170000223600001a05000054ffffff3002000025050000588e1c0240020000cc46280000006e02e1018b01c301a8006600850025000000
+UBX-NAV-PVT, len: 92
+	itow: 560918000, year: 2022, month: 5, day: 21, hour: 11, min: 48, sec: 20, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 38ns, nano: 236446ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2227131 deg, lat: 31.1377443 deg, height: 719mm, hMSL: -8597mm, hAcc: 6923mm, vAcc: 15059mm, 
+	velN: 1167mm/S, velE: 22mm/S, velD: 237mm/S, gSpeed: 1167mm/S, headMot: 354.45745 deg, sAcc: 615mm/S, headAcc: 20.72211 deg, pDop: 4.8
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560918000, gdop: 6.2, pdop: 4.8, tdop: 3.94, vdop: 4.49, hdop: 1.67, ndop: 1.02, edop: 1.33
+ble: 26000000f0ed6e21e60705150b301437260000009e9b030003010a093b1e4148233e8f12cf0200006bdeffff0b1b0000d33a00008f04000016000000ed0000008f040000f1db1c0267020000939e1f0000006c02e0018a01c101a7006600850026000000
+UBX-NAV-PVT, len: 92
+	itow: 560928000, year: 2022, month: 5, day: 21, hour: 11, min: 48, sec: 30, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 30ns, nano: 237466ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2226847 deg, lat: 31.1378807 deg, height: 3207mm, hMSL: -6108mm, hAcc: 5354mm, vAcc: 11947mm, 
+	velN: 1272mm/S, velE: -199mm/S, velD: 239mm/S, gSpeed: 1287mm/S, headMot: 351.87938 deg, sAcc: 368mm/S, headAcc: 14.0967 deg, pDop: 4.78
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560928000, gdop: 6.19, pdop: 4.78, tdop: 3.92, vdop: 4.48, hdop: 1.67, ndop: 1.02, edop: 1.32
+ble: 2700000000156f21e60705150b301e371e0000009a9f030003010a091f1d414877438f12870c000024e8ffffea140000ab2e0000f804000039ffffffef00000007050000e2ec1802700100008682150000006b02de018801c001a7006600840027000000
+UBX-NAV-PVT, len: 92
+	itow: 560938000, year: 2022, month: 5, day: 21, hour: 11, min: 48, sec: 40, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 26ns, nano: 238474ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2226794 deg, lat: 31.1380149 deg, height: 7828mm, hMSL: -1487mm, hAcc: 4673mm, vAcc: 10408mm, 
+	velN: 748mm/S, velE: 345mm/S, velD: 209mm/S, gSpeed: 824mm/S, headMot: 13.1232 deg, sAcc: 509mm/S, headAcc: 41.26378 deg, pDop: 4.77
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560938000, gdop: 6.17, pdop: 4.77, tdop: 3.91, vdop: 4.47, hdop: 1.67, ndop: 1.02, edop: 1.32
+ble: 28000000103c6f21e60705150b3028371a0000008aa3030003010a09ea1c4148b5488f12941e000031faffff41120000a8280000ec02000059010000d10000003803000040061400fd010000aaf63e0000006902dd018701bf01a7006600840028000000
+UBX-NAV-PVT, len: 92
+	itow: 560948000, year: 2022, month: 5, day: 21, hour: 11, min: 48, sec: 50, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 26ns, nano: 239502ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2227158 deg, lat: 31.1381339 deg, height: 6583mm, hMSL: -2732mm, hAcc: 4640mm, vAcc: 10468mm, 
+	velN: 1010mm/S, velE: 618mm/S, velD: 478mm/S, gSpeed: 1184mm/S, headMot: 26.07991 deg, sAcc: 532mm/S, headAcc: 26.84833 deg, pDop: 4.75
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560948000, gdop: 6.15, pdop: 4.75, tdop: 3.9, vdop: 4.45, hdop: 1.66, ndop: 1.02, edop: 1.31
+ble: 2900000020636f21e60705150b3032371a0000008ea7030003010a09561e41485b4d8f12b719000054f5ffff20120000e4280000f20300006a020000de010000a004000077cb270014020000a1f7280000006702db018601bd01a6006600830029000000
+UBX-NAV-PVT, len: 92
+	itow: 560958000, year: 2022, month: 5, day: 21, hour: 11, min: 49, sec: 0, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 27ns, nano: 240541ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 8, lon: 121.2227574 deg, lat: 31.1382318 deg, height: -171mm, hMSL: -9487mm, hAcc: 4927mm, vAcc: 10877mm, 
+	velN: 1029mm/S, velE: 53mm/S, velD: 1020mm/S, gSpeed: 1031mm/S, headMot: 29.54208 deg, sAcc: 520mm/S, headAcc: 34.57333 deg, pDop: 5.41
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560958000, gdop: 7.03, pdop: 5.41, tdop: 4.48, vdop: 5.1, hdop: 1.79, ndop: 1.06, edop: 1.45
+ble: 2a000000308a6f21e60705150b3100371b0000009dab030003010a08f61f41482e518f1255fffffff1daffff3f1300007d2a00000504000035000000fc03000007040000e0132d000802000035c134000000bf021d02c001fe01b3006a0091002a000000
+UBX-NAV-PVT, len: 92
+	itow: 560968000, year: 2022, month: 5, day: 21, hour: 11, min: 49, sec: 10, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 27ns, nano: 241560ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2227889 deg, lat: 31.1383523 deg, height: -1469mm, hMSL: -10784mm, hAcc: 4987mm, vAcc: 10903mm, 
+	velN: 907mm/S, velE: -104mm/S, velD: 732mm/S, gSpeed: 912mm/S, headMot: 353.07089 deg, sAcc: 473mm/S, headAcc: 22.44635 deg, pDop: 4.73
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560968000, gdop: 6.11, pdop: 4.73, tdop: 3.87, vdop: 4.43, hdop: 1.66, ndop: 1.02, edop: 1.31
+ble: 2b00000040b16f21e60705150b310a371b00000098af030003010a0931214148e3558f1243faffffe0d5ffff7b130000972a00008b03000098ffffffdc0200009003000051be1a02d90100001b40220000006302d9018301bb01a600660083002b000000
+UBX-NAV-PVT, len: 92
+	itow: 560978000, year: 2022, month: 5, day: 21, hour: 11, min: 49, sec: 20, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 27ns, nano: 242575ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2227069 deg, lat: 31.1384481 deg, height: -1541mm, hMSL: -10856mm, hAcc: 4773mm, vAcc: 10847mm, 
+	velN: 798mm/S, velE: -786mm/S, velD: 719mm/S, gSpeed: 1120mm/S, headMot: 314.67772 deg, sAcc: 465mm/S, headAcc: 17.02277 deg, pDop: 4.71
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560978000, gdop: 6.09, pdop: 4.71, tdop: 3.86, vdop: 4.41, hdop: 1.65, ndop: 1.02, edop: 1.3
+ble: 2c00000050d86f21e60705150b3114371b0000008fb3030003010a09fd1d4148a1598f12fbf9ffff98d5ffffa51200005f2a00001e030000eefcffffcf02000060040000fc28e001d101000085f9190000006102d7018201b901a500660082002c000000
+UBX-NAV-PVT, len: 92
+	itow: 560988000, year: 2022, month: 5, day: 21, hour: 11, min: 49, sec: 30, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 31ns, nano: 243598ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2226489 deg, lat: 31.1385502 deg, height: -4185mm, hMSL: -13500mm, hAcc: 5523mm, vAcc: 12495mm, 
+	velN: 1151mm/S, velE: 83mm/S, velD: 493mm/S, gSpeed: 1154mm/S, headMot: 356.35307 deg, sAcc: 686mm/S, headAcc: 29.79186 deg, pDop: 4.7
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560988000, gdop: 6.08, pdop: 4.7, tdop: 3.85, vdop: 4.4, hdop: 1.65, ndop: 1.02, edop: 1.3
+ble: 2d00000060ff6f21e60705150b311e371f0000008eb7030003010a09b91b41489e5d8f12a7efffff44cbffff93150000cf3000007f04000053000000ed010000820400006bc01f02ae02000072752d0000006002d6018101b801a500660082002d000000
+UBX-NAV-PVT, len: 92
+	itow: 560998000, year: 2022, month: 5, day: 21, hour: 11, min: 49, sec: 40, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 33ns, nano: 244613ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2226623 deg, lat: 31.1386642 deg, height: -3357mm, hMSL: -12672mm, hAcc: 5956mm, vAcc: 13431mm, 
+	velN: 1052mm/S, velE: 320mm/S, velD: 696mm/S, gSpeed: 1099mm/S, headMot: 14.4188 deg, sAcc: 605mm/S, headAcc: 27.53901 deg, pDop: 4.69
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 560998000, gdop: 6.06, pdop: 4.69, tdop: 3.84, vdop: 4.39, hdop: 1.65, ndop: 1.02, edop: 1.29
+ble: 2e00000070267021e60705150b3128372100000085bb030003010a093f1c414812628f12e3f2ffff80ceffff44170000773400001c04000040010000b80200004b040000580016005d0200006d052a0000005e02d5018001b701a500660081002e000000
+UBX-NAV-PVT, len: 92
+	itow: 561008000, year: 2022, month: 5, day: 21, hour: 11, min: 49, sec: 50, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 34ns, nano: 245609ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2227278 deg, lat: 31.1387772 deg, height: 48mm, hMSL: -9267mm, hAcc: 6031mm, vAcc: 13916mm, 
+	velN: 483mm/S, velE: 1830mm/S, velD: 572mm/S, gSpeed: 1892mm/S, headMot: 66.52118 deg, sAcc: 954mm/S, headAcc: 20.67225 deg, pDop: 4.67
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561008000, gdop: 6.04, pdop: 4.67, tdop: 3.83, vdop: 4.38, hdop: 1.64, ndop: 1.02, edop: 1.29
+ble: 2f000000804d7021e60705150b3132372200000069bf030003010a09ce1e41487c668f1230000000cddbffff8f1700005c360000e3010000260700003c02000064070000d6806500ba030000198b1f0000005c02d3017f01b601a400660081002f000000
+UBX-NAV-PVT, len: 92
+	itow: 561018000, year: 2022, month: 5, day: 21, hour: 11, min: 50, sec: 0, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 37ns, nano: 246612ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2228081 deg, lat: 31.1388649 deg, height: 452mm, hMSL: -8864mm, hAcc: 6821mm, vAcc: 15604mm, 
+	velN: 691mm/S, velE: 316mm/S, velD: 323mm/S, gSpeed: 760mm/S, headMot: 50.73864 deg, sAcc: 709mm/S, headAcc: 42.36348 deg, pDop: 4.66
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561018000, gdop: 6.02, pdop: 4.66, tdop: 3.81, vdop: 4.36, hdop: 1.64, ndop: 1.02, edop: 1.29
+ble: 3000000090747021e60705150b3200372500000054c3030003010a09f1214148e9698f12c401000060ddffffa51a0000f43c0000b30200003c01000043010000f8020000c86b4d00c50200003ca4400000005a02d2017d01b401a4006600810030000000
+UBX-NAV-PVT, len: 92
+	itow: 561028000, year: 2022, month: 5, day: 21, hour: 11, min: 50, sec: 10, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 39ns, nano: 247628ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2229134 deg, lat: 31.1389423 deg, height: -2892mm, hMSL: -12207mm, hAcc: 7272mm, vAcc: 16382mm, 
+	velN: 893mm/S, velE: 217mm/S, velD: 539mm/S, gSpeed: 918mm/S, headMot: 39.79166 deg, sAcc: 579mm/S, headAcc: 42.01529 deg, pDop: 4.65
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561028000, gdop: 6, pdop: 4.65, tdop: 3.8, vdop: 4.35, hdop: 1.64, ndop: 1.01, edop: 1.28
+ble: 31000000a09b7021e60705150b320a37270000004cc7030003010a090e264148ef6c8f12b4f4ffff51d0ffff681c0000fe3f00007d030000d90000001b020000960300009eb73c0043020000391c400000005802d1017c01b301a4006500800031000000
+UBX-NAV-PVT, len: 92
+	itow: 561038000, year: 2022, month: 5, day: 21, hour: 11, min: 50, sec: 20, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 41ns, nano: 248634ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2230306 deg, lat: 31.13901 deg, height: -3986mm, hMSL: -13302mm, hAcc: 7062mm, vAcc: 17357mm, 
+	velN: 173mm/S, velE: 1044mm/S, velD: 415mm/S, gSpeed: 1058mm/S, headMot: 52.2128 deg, sAcc: 847mm/S, headAcc: 41.79528 deg, pDop: 4.63
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561038000, gdop: 5.99, pdop: 4.63, tdop: 3.79, vdop: 4.34, hdop: 1.63, ndop: 1.01, edop: 1.28
+ble: 32000000b0c27021e60705150b321437290000003acb030003010a09a22a4148946f8f126ef0ffff0accffff961b0000cd430000ad000000140400009f01000022040000a0ab4f004f03000048c63f0000005702cf017b01b201a3006500800032000000
+UBX-NAV-PVT, len: 92
+	itow: 561048000, year: 2022, month: 5, day: 21, hour: 11, min: 50, sec: 30, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 45ns, nano: 249642ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2231192 deg, lat: 31.1390818 deg, height: -5514mm, hMSL: -14829mm, hAcc: 7755mm, vAcc: 19070mm, 
+	velN: 1027mm/S, velE: 543mm/S, velD: 637mm/S, gSpeed: 1161mm/S, headMot: 37.03651 deg, sAcc: 697mm/S, headAcc: 34.87864 deg, pDop: 4.62
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561048000, gdop: 5.97, pdop: 4.62, tdop: 3.78, vdop: 4.32, hdop: 1.63, ndop: 1.01, edop: 1.28
+ble: 33000000c0e97021e60705150b321e372d0000002acf030003010a09182e414862728f1276eaffff13c6ffff4b1e00007e4a0000030400001f0200007d0200008904000063833800b90200007838350000005502ce017a01b001a3006500800033000000
+UBX-NAV-PVT, len: 92
+	itow: 561058000, year: 2022, month: 5, day: 21, hour: 11, min: 50, sec: 40, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 44ns, nano: 250628ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 8, lon: 121.2232448 deg, lat: 31.1391899 deg, height: -662mm, hMSL: -9978mm, hAcc: 7029mm, vAcc: 18936mm, 
+	velN: 1397mm/S, velE: 362mm/S, velD: 314mm/S, gSpeed: 1443mm/S, headMot: 20.24954 deg, sAcc: 572mm/S, headAcc: 28.34048 deg, pDop: 5.27
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561058000, gdop: 6.84, pdop: 5.27, tdop: 4.36, vdop: 4.96, hdop: 1.78, ndop: 1.05, edop: 1.44
+ble: 34000000d0107121e60705150b3228372c00000004d3030003010a08003341489b768f126afdffff06d9ffff751b0000f8490000750500006a0100003a010000a3050000fae51e003c020000803e2b000000ac020f02b401f001b2006900900034000000
+UBX-NAV-PVT, len: 92
+	itow: 561068000, year: 2022, month: 5, day: 21, hour: 11, min: 50, sec: 50, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 39ns, nano: 251612ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2232811 deg, lat: 31.1393089 deg, height: 5458mm, hMSL: -3858mm, hAcc: 6622mm, vAcc: 16461mm, 
+	velN: 1229mm/S, velE: 258mm/S, velD: 437mm/S, gSpeed: 1256mm/S, headMot: 9.98538 deg, sAcc: 563mm/S, headAcc: 24.45353 deg, pDop: 4.6
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561068000, gdop: 5.93, pdop: 4.6, tdop: 3.75, vdop: 4.3, hdop: 1.62, ndop: 1.01, edop: 1.27
+ble: 35000000e0377121e60705150b32323727000000dcd6030003010a096b344148417b8f1252150000eef0ffffde1900004d400000cd04000002010000b5010000e80400008a3c0f00330200002950250000005102cc017701ae01a20065007f0035000000
+UBX-NAV-PVT, len: 92
+	itow: 561078000, year: 2022, month: 5, day: 21, hour: 11, min: 51, sec: 0, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 39ns, nano: 252602ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2233078 deg, lat: 31.139429 deg, height: 8205mm, hMSL: -1111mm, hAcc: 6770mm, vAcc: 16284mm, 
+	velN: 1260mm/S, velE: 354mm/S, velD: 282mm/S, gSpeed: 1309mm/S, headMot: 10.28098 deg, sAcc: 715mm/S, headAcc: 31.71059 deg, pDop: 4.58
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561078000, gdop: 5.92, pdop: 4.58, tdop: 3.74, vdop: 4.29, hdop: 1.62, ndop: 1.01, edop: 1.27
+ble: 36000000f05e7121e60705150b33003727000000bada030003010a0976354148f27f8f120d200000a9fbffff721a00009c3f0000ec040000620100001a0100001d05000002b00f00cb020000f362300000005002ca017601ad01a20065007f0036000000
+UBX-NAV-PVT, len: 92
+	itow: 561088000, year: 2022, month: 5, day: 21, hour: 11, min: 51, sec: 10, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 36ns, nano: 253600ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2233229 deg, lat: 31.139547 deg, height: 8349mm, hMSL: -967mm, hAcc: 6495mm, vAcc: 14661mm, 
+	velN: 1081mm/S, velE: 159mm/S, velD: 329mm/S, gSpeed: 1092mm/S, headMot: 7.00229 deg, sAcc: 669mm/S, headAcc: 26.43552 deg, pDop: 4.57
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561088000, gdop: 5.9, pdop: 4.57, tdop: 3.73, vdop: 4.27, hdop: 1.62, ndop: 1.01, edop: 1.26
+ble: 3700000000867121e60705150b330a3724000000a0de030003010a090d3641488e848f129d20000039fcffff5f19000045390000390400009f000000490100004404000045af0a009d0200006056280000004e02c9017501ab01a20065007e0037000000
+UBX-NAV-PVT, len: 92
+	itow: 561098000, year: 2022, month: 5, day: 21, hour: 11, min: 51, sec: 20, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 33ns, nano: 254577ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2232987 deg, lat: 31.1396831 deg, height: 14852mm, hMSL: 5536mm, hAcc: 6072mm, vAcc: 13629mm, 
+	velN: 1089mm/S, velE: 235mm/S, velD: 238mm/S, gSpeed: 1114mm/S, headMot: 6.05888 deg, sAcc: 587mm/S, headAcc: 35.78724 deg, pDop: 4.56
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561098000, gdop: 5.88, pdop: 4.56, tdop: 3.72, vdop: 4.26, hdop: 1.61, ndop: 1.01, edop: 1.26
+ble: 3800000010ad7121e60705150b3314372100000071e2030003010a091b354148df898f12043a0000a0150000b81700003d35000041040000eb000000ee0000005a040000c03e09004b020000649b360000004c02c8017401aa01a10065007e0038000000
+UBX-NAV-PVT, len: 92
+	itow: 561108000, year: 2022, month: 5, day: 21, hour: 11, min: 51, sec: 30, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 32ns, nano: 255578ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.223293 deg, lat: 31.1398121 deg, height: 13049mm, hMSL: 3733mm, hAcc: 5971mm, vAcc: 13092mm, 
+	velN: 1289mm/S, velE: -63mm/S, velD: 243mm/S, gSpeed: 1291mm/S, headMot: 354.57241 deg, sAcc: 559mm/S, headAcc: 21.17158 deg, pDop: 3.17
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561108000, gdop: 4.01, pdop: 3.17, tdop: 2.46, vdop: 2.94, hdop: 1.17, ndop: 0.84, edop: 0.82
+ble: 3900000020d47121e60705150b331e37200000005ae6030003010a0ae2344148e98e8f12f9320000950e0000531700002433000009050000c1fffffff30000000b050000d9081d022f020000264e2000000091013d01f600260175005400520039000000
+UBX-NAV-PVT, len: 92
+	itow: 561118000, year: 2022, month: 5, day: 21, hour: 11, min: 51, sec: 40, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 30ns, nano: 256563ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.2233099 deg, lat: 31.1399439 deg, height: 16327mm, hMSL: 7011mm, hAcc: 5883mm, vAcc: 12802mm, 
+	velN: 1009mm/S, velE: 251mm/S, velD: -128mm/S, gSpeed: 1040mm/S, headMot: 10.89487 deg, sAcc: 596mm/S, headAcc: 25.06549 deg, pDop: 3.16
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561118000, gdop: 4.01, pdop: 3.16, tdop: 2.45, vdop: 2.94, hdop: 1.17, ndop: 0.84, edop: 0.82
+ble: 3a00000030fb7121e60705150b3328371e00000033ea030003010a0a8b3541480f948f12c73f0000631b0000fb16000002320000f1030000fb00000080ffffff10040000cf9f100054020000353f2600000091013c01f50026017500540052003a000000
+UBX-NAV-PVT, len: 92
+	itow: 561128000, year: 2022, month: 5, day: 21, hour: 11, min: 51, sec: 50, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 27ns, nano: 257553ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.2233604 deg, lat: 31.1400604 deg, height: 15282mm, hMSL: 5966mm, hAcc: 5324mm, vAcc: 11566mm, 
+	velN: 1193mm/S, velE: 686mm/S, velD: 163mm/S, gSpeed: 1377mm/S, headMot: 30.40441 deg, sAcc: 543mm/S, headAcc: 29.04926 deg, pDop: 3.16
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561128000, gdop: 4, pdop: 3.16, tdop: 2.45, vdop: 2.93, hdop: 1.17, ndop: 0.84, edop: 0.82
+ble: 3b00000040227221e60705150b3332371b00000011ee030003010a0a843741489c988f12b23b00004e170000cc1400002e2d0000a9040000ae020000a300000061050000b9642e001f0200005e532c00000090013c01f50025017500540052003b000000
+UBX-NAV-PVT, len: 92
+	itow: 561138000, year: 2022, month: 5, day: 21, hour: 11, min: 52, sec: 0, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 27ns, nano: 258546ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.2234286 deg, lat: 31.1401926 deg, height: 12659mm, hMSL: 3343mm, hAcc: 4960mm, vAcc: 11488mm, 
+	velN: 997mm/S, velE: 614mm/S, velD: 333mm/S, gSpeed: 1171mm/S, headMot: 34.10302 deg, sAcc: 361mm/S, headAcc: 22.7416 deg, pDop: 3.16
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561138000, gdop: 3.99, pdop: 3.16, tdop: 2.45, vdop: 2.93, hdop: 1.17, ndop: 0.84, edop: 0.82
+ble: 3c00000050497221e60705150b3400371b000000f2f1030003010a0a2e3a4148c69d8f12733100000f0d000060130000e02c0000e5030000660200004d010000930400007e0934006901000070b3220000008f013c01f50025017500540052003c000000
+UBX-NAV-PVT, len: 92
+	itow: 561148000, year: 2022, month: 5, day: 21, hour: 11, min: 52, sec: 10, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 30ns, nano: 259541ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.2234927 deg, lat: 31.1402984 deg, height: 11097mm, hMSL: 1781mm, hAcc: 5583mm, vAcc: 12815mm, 
+	velN: 1101mm/S, velE: -214mm/S, velD: 209mm/S, gSpeed: 1122mm/S, headMot: 8.91037 deg, sAcc: 537mm/S, headAcc: 44.4264 deg, pDop: 3.15
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561148000, gdop: 3.99, pdop: 3.15, tdop: 2.44, vdop: 2.93, hdop: 1.17, ndop: 0.84, edop: 0.82
+ble: 3d00000060707221e60705150b340a371e000000d5f5030003010a0aaf3c4148e8a18f12592b0000f5060000cf1500000f3200004d0400002affffffd1000000620400009d980d001902000010ca430000008f013b01f40025017500540052003d000000
+UBX-NAV-PVT, len: 92
+	itow: 561158000, year: 2022, month: 5, day: 21, hour: 11, min: 52, sec: 20, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 32ns, nano: 260560ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.2235787 deg, lat: 31.1403483 deg, height: 3670mm, hMSL: -5646mm, hAcc: 6746mm, vAcc: 13590mm, 
+	velN: 407mm/S, velE: 460mm/S, velD: 675mm/S, gSpeed: 614mm/S, headMot: 8.91037 deg, sAcc: 891mm/S, headAcc: 45.45223 deg, pDop: 3.15
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561158000, gdop: 3.98, pdop: 3.15, tdop: 2.44, vdop: 2.92, hdop: 1.17, ndop: 0.84, edop: 0.82
+ble: 3e00000070977221e60705150b34143720000000d0f9030003010a0a0b404148dba38f12560e0000f2e9ffff5a1a00001635000097010000cc010000a3020000660200009d980d007b030000c75a450000008e013b01f40024017500540052003e000000
+UBX-NAV-PVT, len: 92
+	itow: 561168000, year: 2022, month: 5, day: 21, hour: 11, min: 52, sec: 30, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 30ns, nano: 261543ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.2237185 deg, lat: 31.1403617 deg, height: 4767mm, hMSL: -4549mm, hAcc: 6923mm, vAcc: 12675mm, 
+	velN: 327mm/S, velE: 1018mm/S, velD: 357mm/S, gSpeed: 1069mm/S, headMot: 91.22833 deg, sAcc: 516mm/S, headAcc: 26.74765 deg, pDop: 3.15
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561168000, gdop: 3.98, pdop: 3.15, tdop: 2.44, vdop: 2.92, hdop: 1.17, ndop: 0.84, edop: 0.82
+ble: 3f00000080be7221e60705150b341e371e000000a7fd030003010a0a8145414861a48f129f1200003beeffff0b1b00008331000047010000fa030000650100002d04000011348b00040200004dd0280000008e013b01f40024017500540052003f000000
+UBX-NAV-PVT, len: 92
+	itow: 561178000, year: 2022, month: 5, day: 21, hour: 11, min: 52, sec: 40, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 30ns, nano: 262545ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.2238403 deg, lat: 31.1403693 deg, height: 332mm, hMSL: -8985mm, hAcc: 6908mm, vAcc: 12453mm, 
+	velN: 433mm/S, velE: 871mm/S, velD: 722mm/S, gSpeed: 973mm/S, headMot: 74.27273 deg, sAcc: 508mm/S, headAcc: 39.76005 deg, pDop: 3.14
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561178000, gdop: 3.97, pdop: 3.14, tdop: 2.43, vdop: 2.91, hdop: 1.17, ndop: 0.84, edop: 0.82
+ble: 4000000090e57221e60705150b3428371e0000009101040003010a0a434a4148ada48f124c010000e7dcfffffc1a0000a5300000b101000067030000d2020000cd030000c9547100fc01000045ab3c0000008d013a01f300230175005400520040000000
+UBX-NAV-PVT, len: 92
+	itow: 561188000, year: 2022, month: 5, day: 21, hour: 11, min: 52, sec: 50, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 33ns, nano: 263539ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.2239355 deg, lat: 31.1403633 deg, height: -1413mm, hMSL: -10730mm, hAcc: 7558mm, vAcc: 13628mm, 
+	velN: 91mm/S, velE: 223mm/S, velD: 568mm/S, gSpeed: 240mm/S, headMot: 74.27273 deg, sAcc: 743mm/S, headAcc: 40.93276 deg, pDop: 3.14
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561188000, gdop: 3.97, pdop: 3.14, tdop: 2.43, vdop: 2.91, hdop: 1.17, ndop: 0.84, edop: 0.82
+ble: 41000000a00c7321e60705150b343237210000007305040003010a0afb4d414871a48f127bfaffff16d6ffff861d00003c3500005b000000df00000038020000f0000000c9547100e70200005c753e0000008d013a01f300230175005400520041000000
+UBX-NAV-PVT, len: 92
+	itow: 561198000, year: 2022, month: 5, day: 21, hour: 11, min: 53, sec: 0, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 38ns, nano: 264524ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.2240547 deg, lat: 31.140351 deg, height: 612mm, hMSL: -8705mm, hAcc: 8404mm, vAcc: 15571mm, 
+	velN: -222mm/S, velE: 899mm/S, velD: 265mm/S, gSpeed: 926mm/S, headMot: 79.67626 deg, sAcc: 1215mm/S, headAcc: 37.02831 deg, pDop: 3.13
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561198000, gdop: 3.96, pdop: 3.13, tdop: 2.42, vdop: 2.91, hdop: 1.17, ndop: 0.84, edop: 0.82
+ble: 42000000b0337321e60705150b350037260000004c09040003010a0aa3524148f6a38f1264020000ffddffffd4200000d33c000022ffffff83030000090100009e0300008a937900bf0400002f80380000008c013901f200230175005400520042000000
+UBX-NAV-PVT, len: 92
+	itow: 561208000, year: 2022, month: 5, day: 21, hour: 11, min: 53, sec: 10, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 42ns, nano: 265495ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.224167 deg, lat: 31.1403407 deg, height: 4665mm, hMSL: -4652mm, hAcc: 9321mm, vAcc: 17051mm, 
+	velN: -346mm/S, velE: 229mm/S, velD: 218mm/S, gSpeed: 415mm/S, headMot: 95.88849 deg, sAcc: 967mm/S, headAcc: 39.50731 deg, pDop: 3.13
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561208000, gdop: 3.96, pdop: 3.13, tdop: 2.42, vdop: 2.9, hdop: 1.17, ndop: 0.84, edop: 0.82
+ble: 43000000c05a7321e60705150b350a372a000000170d040003010a0a065741488fa38f1239120000d4edffff692400009b420000a6feffffe5000000da0000009f01000071509200c70300008b483c0000008c013901f200220175005400520043000000
+UBX-NAV-PVT, len: 92
+	itow: 561218000, year: 2022, month: 5, day: 21, hour: 11, min: 53, sec: 20, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 34ns, nano: 266457ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.2242703 deg, lat: 31.1403622 deg, height: 11671mm, hMSL: 2353mm, hAcc: 7252mm, vAcc: 13623mm, 
+	velN: 159mm/S, velE: 821mm/S, velD: 66mm/S, gSpeed: 836mm/S, headMot: 96.70368 deg, sAcc: 459mm/S, headAcc: 34.85276 deg, pDop: 3.13
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561218000, gdop: 3.95, pdop: 3.13, tdop: 2.42, vdop: 2.9, hdop: 1.17, ndop: 0.84, edop: 0.82
+ble: 44000000d0817321e60705150b35143722000000d910040003010a0a0f5b414866a48f12972d000031090000541c0000373500009f000000350300004200000044030000e08e9300cb0100005c2e350000008b013901f200220175005400520044000000
+UBX-NAV-PVT, len: 92
+	itow: 561228000, year: 2022, month: 5, day: 21, hour: 11, min: 53, sec: 30, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 25ns, nano: 267439ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.2243804 deg, lat: 31.1403482 deg, height: 12161mm, hMSL: 2843mm, hAcc: 5414mm, vAcc: 10272mm, 
+	velN: -150mm/S, velE: 797mm/S, velD: 181mm/S, gSpeed: 811mm/S, headMot: 102.34235 deg, sAcc: 484mm/S, headAcc: 25.07685 deg, pDop: 3.12
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561228000, gdop: 3.94, pdop: 3.12, tdop: 2.41, vdop: 2.89, hdop: 1.17, ndop: 0.84, edop: 0.82
+ble: 45000000e0a87321e60705150b351e3719000000af14040003010a0a5c5f4148daa38f12812f00001b0b000026150000202800006affffff1d030000b50000002b0300007b299c00e4010000a543260000008a013801f100210175005400520045000000
+UBX-NAV-PVT, len: 92
+	itow: 561238000, year: 2022, month: 5, day: 21, hour: 11, min: 53, sec: 40, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 21ns, nano: 268426ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.2244543 deg, lat: 31.1402576 deg, height: 10881mm, hMSL: 1563mm, hAcc: 4504mm, vAcc: 8715mm, 
+	velN: -1211mm/S, velE: 84mm/S, velD: 222mm/S, gSpeed: 1214mm/S, headMot: 169.03319 deg, sAcc: 350mm/S, headAcc: 27.58534 deg, pDop: 3.12
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561238000, gdop: 3.94, pdop: 3.12, tdop: 2.41, vdop: 2.89, hdop: 1.17, ndop: 0.84, edop: 0.82
+ble: 46000000f0cf7321e60705150b352837150000008a18040003010a0a3f62414850a08f12812a00001b060000981100000b22000045fbffff54000000de000000be04000097ec01015e01000086172a0000008a013801f100210175005400520046000000
+UBX-NAV-PVT, len: 92
+	itow: 561248000, year: 2022, month: 5, day: 21, hour: 11, min: 53, sec: 50, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 22ns, nano: 269415ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2244525 deg, lat: 31.1401459 deg, height: 8168mm, hMSL: -1150mm, hAcc: 4763mm, vAcc: 9127mm, 
+	velN: -1122mm/S, velE: 348mm/S, velD: 542mm/S, gSpeed: 1174mm/S, headMot: 167.58239 deg, sAcc: 370mm/S, headAcc: 15.17722 deg, pDop: 3.07
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561248000, gdop: 3.88, pdop: 3.07, tdop: 2.37, vdop: 2.86, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 4700000000f77321e60705150b35323716000000671c040003010a0b2d624148f39b8f12e81f000082fbffff9b120000a72300009efbffff5c0100001e02000096040000dfb5ff00720100009a281700000084013301ed001e016e0050004c0047000000
+UBX-NAV-PVT, len: 92
+	itow: 561258000, year: 2022, month: 5, day: 21, hour: 11, min: 54, sec: 0, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 18ns, nano: 270381ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.224498 deg, lat: 31.1400243 deg, height: 12156mm, hMSL: 2838mm, hAcc: 3483mm, vAcc: 7445mm, 
+	velN: -1267mm/S, velE: 145mm/S, velD: 67mm/S, gSpeed: 1276mm/S, headMot: 170.53041 deg, sAcc: 278mm/S, headAcc: 11.5309 deg, pDop: 3.06
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561258000, gdop: 3.87, pdop: 3.06, tdop: 2.37, vdop: 2.86, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 48000000101e7421e60705150b360037120000002d20040003010a0bf463414833978f127c2f0000160b00009b0d0000151d00000dfbffff9100000043000000fc040000713504011601000042981100000083013201ed001e016e0050004c0048000000
+UBX-NAV-PVT, len: 92
+	itow: 561268000, year: 2022, month: 5, day: 21, hour: 11, min: 54, sec: 10, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 19ns, nano: 271359ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2245103 deg, lat: 31.1399125 deg, height: 11188mm, hMSL: 1870mm, hAcc: 3445mm, vAcc: 7745mm, 
+	velN: -1318mm/S, velE: 123mm/S, velD: 108mm/S, gSpeed: 1324mm/S, headMot: 174.88572 deg, sAcc: 328mm/S, headAcc: 18.57951 deg, pDop: 3.06
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561268000, gdop: 3.87, pdop: 3.06, tdop: 2.36, vdop: 2.85, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 4900000020457421e60705150b360a3713000000ff23040003010a0b6f644148d5928f12b42b00004e070000750d0000411e0000dafaffff7b0000006c0000002c050000bcda0a01480100009f591c00000083013201ec001d016e0050004c0049000000
+UBX-NAV-PVT, len: 92
+	itow: 561278000, year: 2022, month: 5, day: 21, hour: 11, min: 54, sec: 20, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 21ns, nano: 272334ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2244813 deg, lat: 31.1397987 deg, height: 10235mm, hMSL: 916mm, hAcc: 3646mm, vAcc: 8441mm, 
+	velN: -1081mm/S, velE: -469mm/S, velD: 354mm/S, gSpeed: 1178mm/S, headMot: 204.46906 deg, sAcc: 313mm/S, headAcc: 18.28682 deg, pDop: 3.06
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561278000, gdop: 3.86, pdop: 3.06, tdop: 2.36, vdop: 2.85, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 4a000000306c7421e60705150b36143715000000ce27040003010a0b4d634148638e8f12fb270000940300003e0e0000f9200000c7fbffff2bfeffff620100009a040000bafe3701390100004ae71b00000082013201ec001d016e0050004c004a000000
+UBX-NAV-PVT, len: 92
+	itow: 561288000, year: 2022, month: 5, day: 21, hour: 11, min: 54, sec: 30, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 19ns, nano: 273302ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2244007 deg, lat: 31.1397167 deg, height: 12185mm, hMSL: 2867mm, hAcc: 3427mm, vAcc: 7800mm, 
+	velN: -1321mm/S, velE: -130mm/S, velD: 120mm/S, gSpeed: 1327mm/S, headMot: 191.17231 deg, sAcc: 301mm/S, headAcc: 18.90281 deg, pDop: 3.05
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561288000, gdop: 3.86, pdop: 3.05, tdop: 2.36, vdop: 2.85, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 4b00000040937421e60705150b361e3713000000962b040003010a0b276041482f8b8f12992f0000330b0000630d0000781e0000d7faffff7effffff780000002f050000afb423012d010000e9d71c00000082013101ec001d016e0050004c004b000000
+UBX-NAV-PVT, len: 92
+	itow: 561298000, year: 2022, month: 5, day: 21, hour: 11, min: 54, sec: 40, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 17ns, nano: 274268ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2243946 deg, lat: 31.1395839 deg, height: 14240mm, hMSL: 4922mm, hAcc: 3169mm, vAcc: 7052mm, 
+	velN: -1364mm/S, velE: 85mm/S, velD: 40mm/S, gSpeed: 1367mm/S, headMot: 177.02353 deg, sAcc: 255mm/S, headAcc: 10.13473 deg, pDop: 3.05
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561298000, gdop: 3.85, pdop: 3.05, tdop: 2.35, vdop: 2.84, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 4c00000050ba7421e60705150b362837110000005c2f040003010a0bea5f4148ff858f12a03700003a130000610c00008c1b0000acfaffff550000002800000057050000d11d0e01ff000000e1760f00000081013101eb001c016e0050004c004c000000
+UBX-NAV-PVT, len: 92
+	itow: 561308000, year: 2022, month: 5, day: 21, hour: 11, min: 54, sec: 50, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 19ns, nano: 275247ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2243868 deg, lat: 31.1394678 deg, height: 12198mm, hMSL: 2880mm, hAcc: 3759mm, vAcc: 7848mm, 
+	velN: -1191mm/S, velE: -389mm/S, velD: 170mm/S, gSpeed: 1253mm/S, headMot: 189.56119 deg, sAcc: 359mm/S, headAcc: 26.78267 deg, pDop: 3.04
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561308000, gdop: 3.85, pdop: 3.04, tdop: 2.35, vdop: 2.84, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 4d00000060e17421e60705150b363237130000002f33040003011a0b9c5f414876818f12a62f0000400b0000af0e0000a81e000059fbffff7bfeffffaa000000e5040000573f210167010000fbdd2800000081013001eb001c016e0050004c004d000000
+UBX-NAV-PVT, len: 92
+	itow: 561318000, year: 2022, month: 5, day: 21, hour: 11, min: 55, sec: 0, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 20ns, nano: 276218ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2243715 deg, lat: 31.1393458 deg, height: 13392mm, hMSL: 4073mm, hAcc: 4103mm, vAcc: 8182mm, 
+	velN: -1262mm/S, velE: -87mm/S, velD: 271mm/S, gSpeed: 1265mm/S, headMot: 186.86784 deg, sAcc: 306mm/S, headAcc: 14.8212 deg, pDop: 3.04
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561318000, gdop: 3.84, pdop: 3.04, tdop: 2.35, vdop: 2.83, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 4e00000070087521e60705150b37003714000000fa36040003010a0b035f4148b27c8f1250340000e90f000007100000f61f000012fbffffa9ffffff0f010000f104000040231d0132010000889d1600000080013001eb001b016e0050004c004e000000
+UBX-NAV-PVT, len: 92
+	itow: 561328000, year: 2022, month: 5, day: 21, hour: 11, min: 55, sec: 10, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 17ns, nano: 277192ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2243576 deg, lat: 31.1392257 deg, height: 13368mm, hMSL: 4050mm, hAcc: 3479mm, vAcc: 7053mm, 
+	velN: -1298mm/S, velE: -183mm/S, velD: 19mm/S, gSpeed: 1311mm/S, headMot: 190.94548 deg, sAcc: 285mm/S, headAcc: 12.41335 deg, pDop: 3.04
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561328000, gdop: 3.83, pdop: 3.04, tdop: 2.34, vdop: 2.83, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 4f000000802f7521e60705150b370a3711000000c83a040003010a0b785e414801788f1238340000d20f0000970d00008d1b0000eefaffff49ffffff130000001f050000145c23011d010000f7f0120000007f013001ea001b016e0050004c004f000000
+UBX-NAV-PVT, len: 92
+	itow: 561338000, year: 2022, month: 5, day: 21, hour: 11, min: 55, sec: 20, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 19ns, nano: 278166ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2243491 deg, lat: 31.1390969 deg, height: 12762mm, hMSL: 3443mm, hAcc: 3852mm, vAcc: 7453mm, 
+	velN: -1432mm/S, velE: -108mm/S, velD: 71mm/S, gSpeed: 1436mm/S, headMot: 185.1271 deg, sAcc: 331mm/S, headAcc: 14.54962 deg, pDop: 3.03
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561338000, gdop: 3.83, pdop: 3.03, tdop: 2.34, vdop: 2.83, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 5000000090567521e60705150b37143713000000963e040003010a0b235e4148f9728f12da310000730d00000c0f00001d1d000068faffff94ffffff470000009c050000467b1a014b0100007233160000007f012f01ea001b016e0050004c0050000000
+UBX-NAV-PVT, len: 92
+	itow: 561348000, year: 2022, month: 5, day: 21, hour: 11, min: 55, sec: 30, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 16ns, nano: 279142ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2243506 deg, lat: 31.138972 deg, height: 11568mm, hMSL: 2250mm, hAcc: 3271mm, vAcc: 6679mm, 
+	velN: -1413mm/S, velE: -167mm/S, velD: 109mm/S, gSpeed: 1423mm/S, headMot: 184.41018 deg, sAcc: 362mm/S, headAcc: 21.09795 deg, pDop: 3.03
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561348000, gdop: 3.82, pdop: 3.03, tdop: 2.33, vdop: 2.82, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 51000000a07d7521e60705150b371e37100000006642040003010a0b325e4148186e8f12302d0000ca080000c70c0000171a00007bfaffff59ffffff6d0000008f0500003a6319016a0100006331200000007e012f01e9001a016e0050004c0051000000
+UBX-NAV-PVT, len: 92
+	itow: 561358000, year: 2022, month: 5, day: 21, hour: 11, min: 55, sec: 40, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 18ns, nano: 280120ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.2243277 deg, lat: 31.138846 deg, height: 9749mm, hMSL: 431mm, hAcc: 3759mm, vAcc: 7176mm, 
+	velN: -1053mm/S, velE: -12mm/S, velD: 496mm/S, gSpeed: 1053mm/S, headMot: 185.17711 deg, sAcc: 294mm/S, headAcc: 16.40273 deg, pDop: 3.85
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561358000, gdop: 4.93, pdop: 3.85, tdop: 3.07, vdop: 3.6, hdop: 1.35, ndop: 0.83, edop: 1.07
+ble: 52000000b0a47521e60705150b372837120000003846040003010a0a4d5d41482c698f1215260000af010000af0e0000081c0000e3fbfffff4fffffff00100001d040000cf8e1a0126010000510719000000ed01810133016801870053006b0052000000
+UBX-NAV-PVT, len: 92
+	itow: 561368000, year: 2022, month: 5, day: 21, hour: 11, min: 55, sec: 50, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 18ns, nano: 281086ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2243198 deg, lat: 31.1387142 deg, height: 11005mm, hMSL: 1686mm, hAcc: 3617mm, vAcc: 7230mm, 
+	velN: -1345mm/S, velE: -199mm/S, velD: 81mm/S, gSpeed: 1359mm/S, headMot: 185.89394 deg, sAcc: 296mm/S, headAcc: 15.96288 deg, pDop: 3.02
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561368000, gdop: 3.81, pdop: 3.02, tdop: 2.33, vdop: 2.82, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 53000000c0cb7521e60705150b37323712000000fe49040003010a0bfe5c414806648f12fd2a000096060000210e00003e1c0000bffaffff39ffffff510000004f050000d2a61b0128010000805b180000007d012e01e9001a016e0050004c0053000000
+UBX-NAV-PVT, len: 92
+	itow: 561378000, year: 2022, month: 5, day: 21, hour: 11, min: 56, sec: 0, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 22ns, nano: 282057ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.2243074 deg, lat: 31.1385833 deg, height: 11361mm, hMSL: 2043mm, hAcc: 4500mm, vAcc: 8570mm, 
+	velN: -1412mm/S, velE: -363mm/S, velD: 167mm/S, gSpeed: 1458mm/S, headMot: 193.25164 deg, sAcc: 307mm/S, headAcc: 21.17547 deg, pDop: 3.84
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561378000, gdop: 4.92, pdop: 3.84, tdop: 3.07, vdop: 3.6, hdop: 1.35, ndop: 0.83, edop: 1.07
+ble: 54000000d0f27521e60705150b38003716000000c94d040003011a0a825c4148e95e8f12612c0000fb070000941100007a2100007cfaffff95feffffa7000000b2050000ece0260133010000ab4f20000000ec01800133016801870053006b0054000000
+UBX-NAV-PVT, len: 92
+	itow: 561388000, year: 2022, month: 5, day: 21, hour: 11, min: 56, sec: 10, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 21ns, nano: 283027ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2243018 deg, lat: 31.1384484 deg, height: 12291mm, hMSL: 2972mm, hAcc: 4241mm, vAcc: 8237mm, 
+	velN: -1432mm/S, velE: -319mm/S, velD: 35mm/S, gSpeed: 1467mm/S, headMot: 187.31764 deg, sAcc: 371mm/S, headAcc: 19.50094 deg, pDop: 3.01
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561388000, gdop: 3.8, pdop: 3.01, tdop: 2.32, vdop: 2.81, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 55000000e0197621e60705150b380a37150000009351040003010a0b4a5c4148a4598f12033000009c0b0000911000002d20000068faffffc1feffff23000000bb050000f4d21d01730100008ec11d0000007c012d01e80019016e0050004c0055000000
+UBX-NAV-PVT, len: 92
+	itow: 561398000, year: 2022, month: 5, day: 21, hour: 11, min: 56, sec: 20, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 23ns, nano: 284011ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.2242874 deg, lat: 31.13833 deg, height: 7172mm, hMSL: -2147mm, hAcc: 4613mm, vAcc: 8929mm, 
+	velN: -1249mm/S, velE: -373mm/S, velD: 678mm/S, gSpeed: 1303mm/S, headMot: 195.12748 deg, sAcc: 341mm/S, headAcc: 14.15311 deg, pDop: 3.84
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561398000, gdop: 4.91, pdop: 3.84, tdop: 3.06, vdop: 3.59, hdop: 1.36, ndop: 0.83, edop: 1.08
+ble: 56000000f0407621e60705150b381437170000006b55040003010a0aba5b414804558f12041c00009df7ffff05120000e12200001ffbffff8bfeffffa602000017050000acbd2901550100008f9815000000eb01800132016701880053006c0056000000
+UBX-NAV-PVT, len: 92
+	itow: 561408000, year: 2022, month: 5, day: 21, hour: 11, min: 56, sec: 30, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 22ns, nano: 284977ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2242652 deg, lat: 31.138193 deg, height: 7881mm, hMSL: -1438mm, hAcc: 4283mm, vAcc: 8745mm, 
+	velN: -1540mm/S, velE: 111mm/S, velD: 198mm/S, gSpeed: 1544mm/S, headMot: 180.76783 deg, sAcc: 268mm/S, headAcc: 12.23857 deg, pDop: 3.01
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561408000, gdop: 3.79, pdop: 3.01, tdop: 2.31, vdop: 2.8, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 5700000000687621e60705150b381e37160000003159040003010a0bdc5a4148aa4f8f12c91e000062faffffbb10000029220000fcf9ffff6f000000c6000000080600006fd413010c010000b1ac120000007b012d01e70018016e0050004c0057000000
+UBX-NAV-PVT, len: 92
+	itow: 561418000, year: 2022, month: 5, day: 21, hour: 11, min: 56, sec: 40, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 21ns, nano: 285943ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2242373 deg, lat: 31.1380453 deg, height: 8728mm, hMSL: -591mm, hAcc: 4176mm, vAcc: 8134mm, 
+	velN: -1426mm/S, velE: -285mm/S, velD: 332mm/S, gSpeed: 1454mm/S, headMot: 192.87064 deg, sAcc: 266mm/S, headAcc: 13.61992 deg, pDop: 3
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561418000, gdop: 3.79, pdop: 3, tdop: 2.31, vdop: 2.8, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 58000000108f7621e60705150b38283715000000f75c040003010a0bc5594148e5498f1218220000b1fdffff50100000c61f00006efaffffe3feffff4c010000ae050000184c26010a01000048c8140000007b012c01e70018016e0050004c0058000000
+UBX-NAV-PVT, len: 92
+	itow: 561428000, year: 2022, month: 5, day: 21, hour: 11, min: 56, sec: 50, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 17ns, nano: 286899ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2242235 deg, lat: 31.1379012 deg, height: 13508mm, hMSL: 4189mm, hAcc: 3379mm, vAcc: 6970mm, 
+	velN: -1490mm/S, velE: -102mm/S, velD: -168mm/S, gSpeed: 1493mm/S, headMot: 188.77752 deg, sAcc: 280mm/S, headAcc: 13.99992 deg, pDop: 3
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561428000, gdop: 3.78, pdop: 3, tdop: 2.31, vdop: 2.79, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 5900000020b67621e60705150b38323711000000b360040003010a0b3b59414844448f12c43400005d100000330d00003a1b00002efaffff9affffff58ffffffd5050000380d200118010000b85c150000007a012c01e70017016e0050004c0059000000
+UBX-NAV-PVT, len: 92
+	itow: 561438000, year: 2022, month: 5, day: 21, hour: 11, min: 57, sec: 0, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 17ns, nano: 287867ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2242072 deg, lat: 31.1377689 deg, height: 13115mm, hMSL: 3797mm, hAcc: 3499mm, vAcc: 6823mm, 
+	velN: -1439mm/S, velE: -147mm/S, velD: 92mm/S, gSpeed: 1447mm/S, headMot: 186.54161 deg, sAcc: 246mm/S, headAcc: 12.71882 deg, pDop: 3
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561438000, gdop: 3.78, pdop: 3, tdop: 2.3, vdop: 2.79, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 5a00000030dd7621e60705150b390037110000007b64040003010a0b98584148193f8f123b330000d50e0000ab0d0000a71a000061faffff6dffffff5c000000a7050000d1a31c01f60000004a68130000007a012c01e60017016e0050004c005a000000
+UBX-NAV-PVT, len: 92
+	itow: 561448000, year: 2022, month: 5, day: 21, hour: 11, min: 57, sec: 10, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 17ns, nano: 288833ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2241845 deg, lat: 31.1376475 deg, height: 12435mm, hMSL: 3116mm, hAcc: 3503mm, vAcc: 6725mm, 
+	velN: -1196mm/S, velE: -486mm/S, velD: 175mm/S, gSpeed: 1291mm/S, headMot: 197.21087 deg, sAcc: 296mm/S, headAcc: 14.5021 deg, pDop: 2.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561448000, gdop: 3.77, pdop: 2.99, tdop: 2.3, vdop: 2.78, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 5b00000040047721e60705150b390a37110000004168040003011a0bb55741485b3a8f12933000002c0c0000af0d0000451a000054fbffff1afeffffaf0000000b0500007feb2c0128010000e2201600000079012b01e60016016e0050004c005b000000
+UBX-NAV-PVT, len: 92
+	itow: 561458000, year: 2022, month: 5, day: 21, hour: 11, min: 57, sec: 20, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 19ns, nano: 289798ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2241553 deg, lat: 31.137529 deg, height: 12966mm, hMSL: 3647mm, hAcc: 4086mm, vAcc: 7640mm, 
+	velN: -1244mm/S, velE: -166mm/S, velD: 80mm/S, gSpeed: 1255mm/S, headMot: 193.79081 deg, sAcc: 251mm/S, headAcc: 12.63137 deg, pDop: 2.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561458000, gdop: 3.77, pdop: 2.99, tdop: 2.29, vdop: 2.78, hdop: 1.1, ndop: 0.8, edop: 0.76
+ble: 5c000000502b7721e60705150b39143713000000066c040003010a0b91564148ba358f12a63200003f0e0000f60f0000d81d000024fbffff5affffff50000000e704000089b32701fb00000021461300000079012b01e50016016e0050004c005c000000
+UBX-NAV-PVT, len: 92
+	itow: 561468000, year: 2022, month: 5, day: 21, hour: 11, min: 57, sec: 30, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 21ns, nano: 290776ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2241208 deg, lat: 31.1374244 deg, height: 8660mm, hMSL: -659mm, hAcc: 3966mm, vAcc: 8558mm, 
+	velN: -1032mm/S, velE: -422mm/S, velD: 464mm/S, gSpeed: 1115mm/S, headMot: 200.35895 deg, sAcc: 358mm/S, headAcc: 14.68337 deg, pDop: 2.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561468000, gdop: 3.76, pdop: 2.99, tdop: 2.29, vdop: 2.78, hdop: 1.1, ndop: 0.8, edop: 0.75
+ble: 5d00000060527721e60705150b391e3715000000d86f040003010a0b38554148a4318f12d42100006dfdffff7e0f00006e210000f8fbffff5afeffffd00100005b04000037b9310166010000b1671600000078012b01e50016016e0050004b005d000000
+UBX-NAV-PVT, len: 92
+	itow: 561478000, year: 2022, month: 5, day: 21, hour: 11, min: 57, sec: 40, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 18ns, nano: 291729ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2240638 deg, lat: 31.1373088 deg, height: 12618mm, hMSL: 3300mm, hAcc: 3357mm, vAcc: 7362mm, 
+	velN: -1338mm/S, velE: -263mm/S, velD: -71mm/S, gSpeed: 1364mm/S, headMot: 197.31511 deg, sAcc: 277mm/S, headAcc: 10.47351 deg, pDop: 2.98
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561478000, gdop: 3.76, pdop: 2.98, tdop: 2.29, vdop: 2.77, hdop: 1.1, ndop: 0.8, edop: 0.75
+ble: 5e00000070797721e60705150b392837120000009173040003010a0bfe524148202d8f124a310000e40c00001d0d0000c21c0000c6fafffff9feffffb9ffffff5405000037142d011501000037fb0f00000078012a01e50015016e0050004b005e000000
+UBX-NAV-PVT, len: 92
+	itow: 561488000, year: 2022, month: 5, day: 21, hour: 11, min: 57, sec: 50, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 20ns, nano: 292693ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: y, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2240022 deg, lat: 31.1371951 deg, height: 13399mm, hMSL: 4081mm, hAcc: 3655mm, vAcc: 8111mm, 
+	velN: -1131mm/S, velE: -710mm/S, velD: 110mm/S, gSpeed: 1336mm/S, headMot: 213.01139 deg, sAcc: 396mm/S, headAcc: 13.7335 deg, pDop: 2.98
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561488000, gdop: 3.75, pdop: 2.98, tdop: 2.28, vdop: 2.77, hdop: 1.1, ndop: 0.8, edop: 0.75
+ble: 5f00000080a07721e60705150b393237140000005577040003031a0b96504148af288f1257340000f10f0000470e0000af1f000095fbffff3afdffff6e00000038050000930745018c010000a6f41400000077012a01e40015016e0050004b005f000000
+UBX-NAV-PVT, len: 92
+	itow: 561498000, year: 2022, month: 5, day: 21, hour: 11, min: 58, sec: 0, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 23ns, nano: 293662ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: y, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2239229 deg, lat: 31.1370913 deg, height: 12531mm, hMSL: 3212mm, hAcc: 3955mm, vAcc: 9299mm, 
+	velN: -960mm/S, velE: -727mm/S, velD: 293mm/S, gSpeed: 1204mm/S, headMot: 215.53312 deg, sAcc: 355mm/S, headAcc: 13.75187 deg, pDop: 2.98
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561498000, gdop: 3.75, pdop: 2.98, tdop: 2.28, vdop: 2.77, hdop: 1.1, ndop: 0.8, edop: 0.75
+ble: 6000000090c77721e60705150b3a0037170000001e7b040003030a0b7d4d4148a1248f12f33000008c0c0000730f00005324000040fcffff29fdffff25010000b4040000a0e0480163010000d3fb1400000077012a01e40015016e0050004b0060000000
+UBX-NAV-PVT, len: 92
+	itow: 561508000, year: 2022, month: 5, day: 21, hour: 11, min: 58, sec: 10, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 25ns, nano: 294625ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: y, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.2238602 deg, lat: 31.1369834 deg, height: 14307mm, hMSL: 4989mm, hAcc: 4420mm, vAcc: 10249mm, 
+	velN: -1141mm/S, velE: -719mm/S, velD: 239mm/S, gSpeed: 1348mm/S, headMot: 208.13556 deg, sAcc: 390mm/S, headAcc: 22.28769 deg, pDop: 3.81
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561508000, gdop: 4.87, pdop: 3.81, tdop: 3.03, vdop: 3.56, hdop: 1.37, ndop: 0.83, edop: 1.09
+ble: 61000000a0ee7721e60705150b3a0a3719000000e17e040003030a0a0a4b41486a208f12e33700007d13000044110000092800008bfbffff31fdffffef00000044050000f4963d0186010000210222000000e7017d012f016401890053006d0061000000
+UBX-NAV-PVT, len: 92
+	itow: 561518000, year: 2022, month: 5, day: 21, hour: 11, min: 58, sec: 20, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 23ns, nano: 295581ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: y, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2237941 deg, lat: 31.1368646 deg, height: 16796mm, hMSL: 7478mm, hAcc: 4179mm, vAcc: 9350mm, 
+	velN: -1142mm/S, velE: -167mm/S, velD: 106mm/S, gSpeed: 1154mm/S, headMot: 198.70325 deg, sAcc: 343mm/S, headAcc: 18.93646 deg, pDop: 2.97
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561518000, gdop: 3.74, pdop: 2.97, tdop: 2.27, vdop: 2.76, hdop: 1.1, ndop: 0.8, edop: 0.75
+ble: 62000000b0157821e60705150b3a1437170000009d82040003030a0b75484148c61b8f129c410000361d000053100000862400008afbffff59ffffff6a0000008204000075322f01570100000ee51c00000076012901e30014016e0050004b0062000000
+UBX-NAV-PVT, len: 92
+	itow: 561528000, year: 2022, month: 5, day: 21, hour: 11, min: 58, sec: 30, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 22ns, nano: 296553ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: y, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 9, lon: 121.2237179 deg, lat: 31.1368026 deg, height: 15442mm, hMSL: 6124mm, hAcc: 3875mm, vAcc: 8969mm, 
+	velN: -356mm/S, velE: -407mm/S, velD: -19mm/S, gSpeed: 541mm/S, headMot: 232.81814 deg, sAcc: 482mm/S, headAcc: 32.74252 deg, pDop: 3.28
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561528000, gdop: 4.11, pdop: 3.28, tdop: 2.47, vdop: 3.06, hdop: 1.19, ndop: 0.88, edop: 0.79
+ble: 63000000c03c7821e60705150b3a1e37160000006986040003030a097b4541485a198f12523c0000ec170000230f0000092300009cfeffff69feffffedffffff1d02000096406301e20100000cf6310000009b014801f7003201770058004f0063000000
+UBX-NAV-PVT, len: 92
+	itow: 561538000, year: 2022, month: 5, day: 21, hour: 11, min: 58, sec: 40, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 25ns, nano: 297516ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: y, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2236959 deg, lat: 31.1367719 deg, height: 17106mm, hMSL: 7787mm, hAcc: 4339mm, vAcc: 10224mm, 
+	velN: -377mm/S, velE: -148mm/S, velD: -158mm/S, gSpeed: 405mm/S, headMot: 207.37243 deg, sAcc: 449mm/S, headAcc: 41.7145 deg, pDop: 2.96
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561538000, gdop: 3.73, pdop: 2.96, tdop: 2.27, vdop: 2.75, hdop: 1.1, ndop: 0.8, edop: 0.75
+ble: 64000000d0637821e60705150b3a2837190000002c8a040003030a0b9f44414827188f12d24200006b1e0000f3100000f027000087feffff6cffffff62ffffff95010000db6c3c01c1010000baa63f00000075012801e30013016e0050004b0064000000
+UBX-NAV-PVT, len: 92
+	itow: 561548000, year: 2022, month: 5, day: 21, hour: 11, min: 58, sec: 50, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 22ns, nano: 298466ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2236617 deg, lat: 31.1368041 deg, height: 19995mm, hMSL: 10677mm, hAcc: 3976mm, vAcc: 9162mm, 
+	velN: 284mm/S, velE: -992mm/S, velD: 33mm/S, gSpeed: 1032mm/S, headMot: 309.02953 deg, sAcc: 361mm/S, headAcc: 22.77476 deg, pDop: 2.96
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561548000, gdop: 3.72, pdop: 2.96, tdop: 2.26, vdop: 2.75, hdop: 1.1, ndop: 0.8, edop: 0.75
+ble: 65000000e08a7821e60705150b3a323716000000e28d040003010a0b4943414869198f121b4e0000b5290000880f0000ca2300001c01000020fcffff2100000008040000a98ad7016901000064c02200000074012801e20013016e0050004b0065000000
+UBX-NAV-PVT, len: 92
+	itow: 561558000, year: 2022, month: 5, day: 21, hour: 11, min: 59, sec: 0, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 22ns, nano: 299423ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2235479 deg, lat: 31.1368133 deg, height: 18499mm, hMSL: 9181mm, hAcc: 3909mm, vAcc: 8999mm, 
+	velN: -187mm/S, velE: -541mm/S, velD: 214mm/S, gSpeed: 572mm/S, headMot: 271.66919 deg, sAcc: 399mm/S, headAcc: 44.87823 deg, pDop: 2.95
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561558000, gdop: 3.72, pdop: 2.95, tdop: 2.26, vdop: 2.74, hdop: 1.1, ndop: 0.8, edop: 0.75
+ble: 66000000f0b17821e60705150b3b0037160000009f91040003010a0bd73e4148c5198f1243480000dd230000450f00002723000045ffffffe3fdffffd60000003c020000c7889e018f0100008f7a4400000074012701e20012016e0050004b0066000000
+UBX-NAV-PVT, len: 92
+	itow: 561568000, year: 2022, month: 5, day: 21, hour: 11, min: 59, sec: 10, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 20ns, nano: 300378ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2234181 deg, lat: 31.1368525 deg, height: 17788mm, hMSL: 8471mm, hAcc: 3542mm, vAcc: 8512mm, 
+	velN: 549mm/S, velE: -973mm/S, velD: 52mm/S, gSpeed: 1117mm/S, headMot: 295.4739 deg, sAcc: 278mm/S, headAcc: 18.93801 deg, pDop: 2.95
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561568000, gdop: 3.71, pdop: 2.95, tdop: 2.26, vdop: 2.74, hdop: 1.1, ndop: 0.8, edop: 0.75
+ble: 6700000000d97821e60705150b3b0a37140000005a95040003010a0bc53941484d1b8f127c45000017210000d60d0000402100002502000033fcffff340000005d0400007edbc20116010000a9e51c00000073012701e20012016e0050004b0067000000
+UBX-NAV-PVT, len: 92
+	itow: 561578000, year: 2022, month: 5, day: 21, hour: 11, min: 59, sec: 20, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 20ns, nano: 301330ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 11, lon: 121.2233127 deg, lat: 31.1369183 deg, height: 19315mm, hMSL: 9998mm, hAcc: 3373mm, vAcc: 8455mm, 
+	velN: 1417mm/S, velE: 550mm/S, velD: -49mm/S, gSpeed: 1519mm/S, headMot: 2.71315 deg, sAcc: 503mm/S, headAcc: 10.35904 deg, pDop: 2.95
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561578000, gdop: 3.71, pdop: 2.95, tdop: 2.25, vdop: 2.74, hdop: 1.1, ndop: 0.8, edop: 0.75
+ble: 6800000010007921e60705150b3b1437140000001299040003010a0ba7354148df1d8f12734b00000e2700002d0d0000072100008905000026020000cfffffffef050000d3230400f701000080ce0f00000073012701e10012016e0050004b0068000000
+UBX-NAV-PVT, len: 92
+	itow: 561588000, year: 2022, month: 5, day: 21, hour: 11, min: 59, sec: 30, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 25ns, nano: 302279ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 10, lon: 121.223341 deg, lat: 31.1369879 deg, height: 23001mm, hMSL: 13684mm, hAcc: 8640mm, vAcc: 10623mm, 
+	velN: 832mm/S, velE: 442mm/S, velD: -344mm/S, gSpeed: 942mm/S, headMot: 26.14143 deg, sAcc: 1794mm/S, headAcc: 20.61067 deg, pDop: 3.23
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561588000, gdop: 4.05, pdop: 3.23, tdop: 2.45, vdop: 3.04, hdop: 1.11, ndop: 0.8, edop: 0.77
+ble: 6900000020277921e60705150b3b1e3719000000c79c040003010a0ac236414897208f12d959000074350000c02100007f29000040030000ba010000a8feffffae0300007fe32700020700000b731f00000095014301f50030016f0050004d0069000000
+UBX-NAV-PVT, len: 92
+	itow: 561598000, year: 2022, month: 5, day: 21, hour: 11, min: 59, sec: 40, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 42ns, nano: 303239ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 6, lon: 121.223387 deg, lat: 31.1370562 deg, height: 27267mm, hMSL: 17950mm, hAcc: 18004mm, vAcc: 18958mm, 
+	velN: 1362mm/S, velE: 412mm/S, velD: -441mm/S, gSpeed: 1422mm/S, headMot: 26.14143 deg, sAcc: 2473mm/S, headAcc: 24.41948 deg, pDop: 7.17
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561598000, gdop: 9.01, pdop: 7.17, tdop: 5.45, vdop: 7, hdop: 1.58, ndop: 1.2, edop: 1.03
+ble: 6a000000304e7921e60705150b3b28372a00000087a0040003010a068e38414842238f12836a00001e460000544600000e4a0000520500009c01000047feffff8e0500007fe32700a9090000dc42250000008503cd022102bc029e00780067006a000000
+UBX-NAV-PVT, len: 92
+	itow: 561608000, year: 2022, month: 5, day: 21, hour: 11, min: 59, sec: 50, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 67ns, nano: 304191ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 7, lon: 121.2232863 deg, lat: 31.1369556 deg, height: 19037mm, hMSL: 9720mm, hAcc: 28697mm, vAcc: 30299mm, 
+	velN: -1736mm/S, velE: -1027mm/S, velD: 777mm/S, gSpeed: 2017mm/S, headMot: 336.16018 deg, sAcc: 2601mm/S, headAcc: 39.61946 deg, pDop: 4.71
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561608000, gdop: 5.98, pdop: 4.71, tdop: 3.67, vdop: 4.45, hdop: 1.55, ndop: 1.17, edop: 1.02
+ble: 6b00000040757921e60705150b3b3237430000003fa4040003010a079f344148541f8f125d4a0000f8250000197000005b76000038f9fffffdfbffff09030000e107000092f00002290a00005a743c0000005602d7016f01bd019b00750066006b000000
+UBX-NAV-PVT, len: 92
+	itow: 561618000, year: 2022, month: 5, day: 21, hour: 12, min: 0, sec: 0, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 91ns, nano: 305138ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 7, lon: 121.2232137 deg, lat: 31.1368419 deg, height: 15401mm, hMSL: 6084mm, hAcc: 32153mm, vAcc: 41141mm, 
+	velN: -1423mm/S, velE: 109mm/S, velD: 400mm/S, gSpeed: 1427mm/S, headMot: 241.3078 deg, sAcc: 1794mm/S, headAcc: 39.53947 deg, pDop: 4.71
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561618000, gdop: 5.97, pdop: 4.71, tdop: 3.67, vdop: 4.45, hdop: 1.55, ndop: 1.17, edop: 1.02
+ble: 6c000000509c7921e60705150c0000375b000000f2a7040003010b07c9314148e31a8f12293c0000c4170000997d0000b5a0000071faffff6d0000009001000093050000dc347001020700001b553c0000005502d7016f01bd019b00750066006c000000
+UBX-NAV-PVT, len: 92
+	itow: 561628000, year: 2022, month: 5, day: 21, hour: 12, min: 0, sec: 10, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 120ns, nano: 306075ns, 
+	fixType: 3D-fix, 
+	flags: gnssFixOK: y, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 6, lon: 121.2231588 deg, lat: 31.1367019 deg, height: 10279mm, hMSL: 962mm, hAcc: 43720mm, vAcc: 54177mm, 
+	velN: -1086mm/S, velE: -105mm/S, velD: 412mm/S, gSpeed: 1091mm/S, headMot: 241.3078 deg, sAcc: 2222mm/S, headAcc: 41.71779 deg, pDop: 4.77
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561628000, gdop: 6.03, pdop: 4.77, tdop: 3.68, vdop: 4.48, hdop: 1.63, ndop: 1.28, edop: 1.02
+ble: 6d00000060c37921e60705150c000a37780000009bab040003010b06a42f41486b158f1227280000c2030000c8aa0000a1d30000c2fbffff97ffffff9c01000043040000dc347001ae08000003a83f0000005b02dd017001c001a300800066006d000000
+UBX-NAV-PVT, len: 92
+	itow: 561638000, year: 2022, month: 5, day: 21, hour: 12, min: 0, sec: 20, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 156ns, nano: 307022ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 121.2230426 deg, lat: 31.1366189 deg, height: 5843mm, hMSL: -3474mm, hAcc: 70975mm, vAcc: 68639mm, 
+	velN: -1007mm/S, velE: -721mm/S, velD: 423mm/S, gSpeed: 1238mm/S, headMot: 241.3078 deg, sAcc: 2931mm/S, headAcc: 44.40359 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561638000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 6e00000070ea7921e60705150c0014379c0000004eaf040000000b001a2b41482d128f12d31600006ef2ffff3f1501001f0c010011fcffff2ffdffffa7010000d6040000dc347001730b000027c1430000000f270f270f270f270f270f270f276e000000
+UBX-NAV-PVT, len: 92
+	itow: 561648000, year: 2022, month: 5, day: 21, hour: 12, min: 0, sec: 30, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 199ns, nano: 307967ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 121.22302 deg, lat: 31.1365917 deg, height: 4573mm, hMSL: -4744mm, hAcc: 120842mm, vAcc: 84082mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 241.3078 deg, sAcc: 6411mm/S, headAcc: 48.68562 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561648000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 6f00000080117a21e60705150c001e37c7000000ffb2040000000a00382a41481d118f12dd11000078edffff0ad801007248010000000000000000000000000000000000dc3470010b190000d2494a0000000f270f270f270f270f270f270f276f000000
+UBX-NAV-PVT, len: 92
+	itow: 561658000, year: 2022, month: 5, day: 21, hour: 12, min: 0, sec: 40, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 264ns, nano: 308911ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 121.22302 deg, lat: 31.1365917 deg, height: 4573mm, hMSL: -4744mm, hAcc: 221205mm, vAcc: 101083mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 241.3078 deg, sAcc: 9545mm/S, headAcc: 55.78237 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561658000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 7000000090387a21e60705150c00283708010000afb6040000000a00382a41481d118f12dd11000078edffff15600300db8a010000000000000000000000000000000000dc34700149250000fd1d550000000f270f270f270f270f270f270f2770000000
+UBX-NAV-PVT, len: 92
+	itow: 561668000, year: 2022, month: 5, day: 21, hour: 12, min: 0, sec: 50, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 364ns, nano: 309856ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 121.22302 deg, lat: 31.1365917 deg, height: 4573mm, hMSL: -4744mm, hAcc: 371134mm, vAcc: 120834mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 241.3078 deg, sAcc: 11879mm/S, headAcc: 63.95446 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561668000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 71000000a05f7a21e60705150c0032376c01000060ba040000000a00382a41481d118f12dd11000078edffffbea9050002d8010000000000000000000000000000000000dc347001672e00003696610000000f270f270f270f270f270f270f2771000000
+UBX-NAV-PVT, len: 92
+	itow: 561678000, year: 2022, month: 5, day: 21, hour: 12, min: 1, sec: 0, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 505ns, nano: 310800ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 121.22302 deg, lat: 31.1365917 deg, height: 4573mm, hMSL: -4744mm, hAcc: 557701mm, vAcc: 143766mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 241.3078 deg, sAcc: 13824mm/S, headAcc: 72.51159 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561678000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 72000000b0867a21e60705150c010037f901000010be040000000a00382a41481d118f12dd11000078edffff858208009631020000000000000000000000000000000000dc34700100360000d7a46e0000000f270f270f270f270f270f270f2772000000
+UBX-NAV-PVT, len: 92
+	itow: 561688000, year: 2022, month: 5, day: 21, hour: 12, min: 1, sec: 10, 
+	valid: date: y, time: y, fully resolved: y, mag: n, tAcc: 685ns, nano: 311745ns, 
+	fixType: no fix, 
+	flags: gnssFixOK: n, diffSoln: n, psmState: 0, headVehValid: n, carrSoln: 0, 
+	flags2: confirmedAvai: n, confirmedDate: n, confirmedTime: n, 
+	numSV: 0, lon: 121.22302 deg, lat: 31.1365917 deg, height: 4573mm, hMSL: -4744mm, hAcc: 773821mm, vAcc: 169917mm, 
+	velN: 0mm/S, velE: 0mm/S, velD: 0mm/S, gSpeed: 0mm/S, headMot: 241.3078 deg, sAcc: 15528mm/S, headAcc: 81.16712 deg, pDop: 99.99
+	flags3: invalidLlh: n, lastCorrectionAge: Not available, , headVeh: 0 deg, magDec: 0 deg, magAcc: 0 deg, (96 === 96)
+UBX-NAV-DOP, len: 18, 
+	itow: 561688000, gdop: 99.99, pdop: 99.99, tdop: 99.99, vdop: 99.99, hdop: 99.99, ndop: 99.99, edop: 99.99
+ble: 73000000c0ad7a21e60705150c010a37ad020000c1c1040000000a00382a41481d118f12dd11000078edffffbdce0b00bd97020000000000000000000000000000000000dc347001a83c0000e8d97b0000000f270f270f270f270f270f270f2773000000
